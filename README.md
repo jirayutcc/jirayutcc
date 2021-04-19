@@ -29,3 +29,14 @@
 ![IntelliJIDEA](https://img.shields.io/badge/-IntelliJIDEA-090909?style=for-the-badge&logo=IntelliJ-IDEA&logoColor=4D4D4D)
 ![Postman](https://img.shields.io/badge/-Postman-090909?style=for-the-badge&logo=postman&logoColor=FF6C37)
 ![Gitlab](https://img.shields.io/badge/-Gitlab-090909?style=for-the-badge&logo=gitlab&logoColor=FCA121) -->
+
+---
+
+*NOTE: Top languages does not indicate my skill level or something like that, it's a github metric of which languages i have the most code on github*
+
+<a href="https://github-readme-stats.vercel.app/api?username=jirayutcc&show_icons=true&theme=gotham">
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=jirayutcc&show_icons=true&theme=gotham" />
+</a>
+<a href="https://github-readme-stats.vercel.app/api/top-langs/?username=jirayutcc&layout=compact&theme=gotham">
+<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jirayutcc&layout=compact&theme=gotham" />
+</a>
