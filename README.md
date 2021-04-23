@@ -20,6 +20,7 @@
 ![AngularJS](https://img.shields.io/badge/-AngularJS-090909?style=for-the-badge&logo=angularjs&logoColor=E23237)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-090909?style=for-the-badge&logo=JavaScript&logoColor=E9D54D)
 ![MySQL](https://img.shields.io/badge/-MySQL-090909?style=for-the-badge&logo=mysql&logoColor=00648B)
+![Oracle](https://img.shields.io/badge/-Oracle-090909?style=for-the-badge&logo=Oracle&logoColor=E23237)
 ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-090909?style=for-the-badge&logo=postgresql&logoColor=316192)
 <!-- ![Bootstrap](https://img.shields.io/badge/-Bootstrap-090909?style=for-the-badge&logo=Bootstrap&logoColor=563D7C)
 ![jQuery](https://img.shields.io/badge/-jQuery-090909?style=for-the-badge&logo=jQuery&logoColor=0769AD)
