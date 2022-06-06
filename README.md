@@ -1,4 +1,4 @@
-### Hi there, I'm [Jirayut Srisawangwong](https://jirayutcc.github.io) <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="23px">
+### Hi there, I'm [Jirayut Srisawangwong](https://jirayutcc.github.io) <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" height="25px" width="25px">
 
 - 🔭 I’m currently working on with web backend development using java and groovy as the main development language
 - 🌱 I’m currently learning Full stack
