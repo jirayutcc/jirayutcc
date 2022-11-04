@@ -1,7 +1,7 @@
-### Hi there, I'm [Jirayut Srisawangwong](https://jirayutcc.github.io) <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" height="25px" width="25px">
+### Hi there, I'm Jirayut Srisawangwong <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" height="25px" width="25px">
 
-- 🔭 I’m currently working on with web backend development using java and groovy as the main development language
-- 🌱 I’m currently learning Full stack
+- 🔭 I’m currently working on with Backend Developer, using java and kotlin as the main development language
+- 🌱 I’m currently learning new tech stacks
 - 👯 I’m looking to collaborate with other content creators
 - 💬 Ask me about anything [here](https://github.com/jirayutcc/jirayutcc/issues)
 - ⚡ Fun fact: 🐶 🕹️ 🏔️ 📸 💻 🎧 🎞️
@@ -36,7 +36,7 @@
 
 ---
 
-*NOTE: Top languages does not indicate my skill level or something like that, it's a github metric of which languages i have the most code on github*
+<!-- *NOTE: Top languages does not indicate my skill level or something like that, it's a github metric of which languages i have the most code on github* -->
 
 <a href="https://github-readme-stats.vercel.app/api?username=jirayutcc&show_icons=true&theme=buefy">
 <img align="center" src="https://github-readme-stats.vercel.app/api?username=jirayutcc&show_icons=true&theme=buefy" />
