@@ -36,12 +36,10 @@
 ![Postman](https://img.shields.io/badge/-Postman-090909?style=for-the-badge&logo=postman&logoColor=FF6C37) -->
 
 ---
+<p>
+<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jirayutcc&show_icons=true&layout=compact&theme=graywhite" alt="jirayutcc" />
+</p>
 
-<!-- *NOTE: Top languages does not indicate my skill level or something like that, it's a github metric of which languages i have the most code on github* -->
-
-<a href="https://github-readme-stats.vercel.app/api?username=jirayutcc&show_icons=true&theme=buefy">
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=jirayutcc&show_icons=true&theme=buefy" />
-</a>
-<a href="https://github-readme-stats.vercel.app/api/top-langs/?username=jirayutcc&layout=compact&theme=buefy">
-<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jirayutcc&layout=compact&theme=buefy" />
-</a>
+<p>
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=jirayutcc&show_icons=true&theme=graywhite" alt="jirayutcc" />
+</p>
