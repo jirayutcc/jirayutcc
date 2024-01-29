@@ -24,16 +24,14 @@
 ![Oracle](https://img.shields.io/badge/-Oracle-white?style=for-the-badge&logo=Oracle&logoColor=E23237)
 ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-white?style=for-the-badge&logo=postgresql&logoColor=316192)
 ![MariaDB](https://img.shields.io/badge/-MariaDB-white?style=for-the-badge&logo=MariaDB&logoColor=003545)
-<!-- ![Elasticsearch](https://img.shields.io/badge/-Elasticsearch-white?style=for-the-badge&logo=Elasticsearch&logoColor=005571)
-![Gitlab](https://img.shields.io/badge/-Gitlab-white?style=for-the-badge&logo=gitlab&logoColor=FCA121)
-![Vue](https://img.shields.io/badge/-Vue-white?style=for-the-badge&logo=vue.js&logoColor=4FC08D)
-![React](https://img.shields.io/badge/-React-white?style=for-the-badge&logo=react&logoColor=61DAFB)
-![JavaScript](https://img.shields.io/badge/-JavaScript-white?style=for-the-badge&logo=JavaScript&logoColor=E9D54D)
-![Bootstrap](https://img.shields.io/badge/-Bootstrap-090909?style=for-the-badge&logo=Bootstrap&logoColor=563D7C)
-![jQuery](https://img.shields.io/badge/-jQuery-090909?style=for-the-badge&logo=jQuery&logoColor=0769AD)
-![Hibernate](https://img.shields.io/badge/-Hibernate-090909?style=for-the-badge&logo=hibernate&logoColor=59666C)
-![IntelliJIDEA](https://img.shields.io/badge/-IntelliJIDEA-090909?style=for-the-badge&logo=IntelliJ-IDEA&logoColor=4D4D4D)
-![Postman](https://img.shields.io/badge/-Postman-090909?style=for-the-badge&logo=postman&logoColor=FF6C37) -->
+![Google Cloud](https://img.shields.io/badge/-googlecloud-white?style=for-the-badge&logo=googlecloud&logoColor=#4285F4)
+![MariaDB](https://img.shields.io/badge/-microsoftazure-white?style=for-the-badge&logo=microsoftazure&logoColor=2496ED)
+
+<!-- link icon -->
+<!-- https://simpleicons.org/ -->
+
+<!-- ![Vue](https://img.shields.io/badge/-Vue-white?style=for-the-badge&logo=vue.js&logoColor=4FC08D)
+![React](https://img.shields.io/badge/-React-white?style=for-the-badge&logo=react&logoColor=61DAFB) -->
 
 ---
 <p>
