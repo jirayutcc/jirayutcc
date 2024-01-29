@@ -16,7 +16,7 @@
 ![Kotlin](https://img.shields.io/badge/-Kotlin-white?style=for-the-badge&logo=kotlin&logoColor=7F52FF)
 ![Groovy](https://img.shields.io/badge/-Groovy-white?style=for-the-badge&logo=apache-groovy&logoColor=4298B8)
 ![SpringBoot](https://img.shields.io/badge/-SpringBoot-white?style=for-the-badge&logo=springboot&logoColor=6DB33F)
-![Angular](https://img.shields.io/badge/-Angular-white?style=for-the-badge&logo=angularjs&logoColor=E23237)
+![Angular](https://img.shields.io/badge/-angular-white?style=for-the-badge&logo=angular&logoColor=E23237)
 ![Docker](https://img.shields.io/badge/-Docker-white?style=for-the-badge&logo=Docker&logoColor=2496ED)
 ![Redis](https://img.shields.io/badge/-Redis-white?style=for-the-badge&logo=Redis&logoColor=DC382D)
 ![Apache Kafka](https://img.shields.io/badge/-Kafka-white?style=for-the-badge&logo=apachekafka&logoColor=black)
