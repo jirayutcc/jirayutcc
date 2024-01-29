@@ -7,7 +7,7 @@
 - ⚡ Fun fact: 🐶 🕹️ 🏔️ 📸 💻 🎧 🎞️
 
 ### Connect with me:
-[![Facebook](https://img.shields.io/badge/-Facebook-white?style=for-the-badge&logo=Facebook&logoColor=1195F5)](https://www.facebook.com/jirayutcc)
+[![Facebook](https://img.shields.io/badge/-Facebook-white?style=for-the-badge&logo=Facebook&logoColor=1195F5)](https://www.facebook.com/j.srisawangwong)
 [![Instagram](https://img.shields.io/badge/-Instagram-white?style=for-the-badge&logo=instagram&logoColor=B4068E)](https://www.instagram.com/farmhouse.js)
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-white?style=for-the-badge&logo=linkedin&logoColor=007BB6)](https://www.linkedin.com/in/jirayutcc)
 
