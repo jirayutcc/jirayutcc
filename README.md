@@ -1,43 +1,19 @@
-### Hi there, I'm Jirayut Srisawangwong <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" height="25px" width="25px">
+# Jirayut Srisawangwong
 
-- 🔭 I’m currently working on with Backend Developer, using java and kotlin as the main development language
-- 🌱 I’m currently learning new tech stacks
-- 👯 I’m looking to collaborate with other content creators
-- 💬 Ask me about anything [here](https://github.com/jirayutcc/jirayutcc/issues)
-- ⚡ Fun fact: 🐶 🕹️ 🏔️ 📸 💻 🎧 🎞️
+I'm Jirayutcc <b>Software Developer</b> from Thailand ⚡
 
-### Connect with me:
-[![Facebook](https://img.shields.io/badge/-Facebook-white?style=for-the-badge&logo=Facebook&logoColor=1195F5)](https://www.facebook.com/j.srisawangwong)
-[![Instagram](https://img.shields.io/badge/-Instagram-white?style=for-the-badge&logo=instagram&logoColor=B4068E)](https://www.instagram.com/farmhouse.js)
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-white?style=for-the-badge&logo=linkedin&logoColor=007BB6)](https://www.linkedin.com/in/jirayutcc)
+<p align=center>
+<!-- <img src=""/> -->
+</p>
 
-### Languages and Tools:
-![Java](https://img.shields.io/badge/-Java-white?style=for-the-badge&logo=openjdk&logoColor=E23237)
-![Kotlin](https://img.shields.io/badge/-Kotlin-white?style=for-the-badge&logo=kotlin&logoColor=7F52FF)
-![Groovy](https://img.shields.io/badge/-Groovy-white?style=for-the-badge&logo=apache-groovy&logoColor=4298B8)
-![SpringBoot](https://img.shields.io/badge/-SpringBoot-white?style=for-the-badge&logo=springboot&logoColor=6DB33F)
-![Angular](https://img.shields.io/badge/-angular-white?style=for-the-badge&logo=angular&logoColor=E23237)
-![Docker](https://img.shields.io/badge/-Docker-white?style=for-the-badge&logo=Docker&logoColor=2496ED)
-![Redis](https://img.shields.io/badge/-Redis-white?style=for-the-badge&logo=Redis&logoColor=DC382D)
-![Apache Kafka](https://img.shields.io/badge/-Kafka-white?style=for-the-badge&logo=apachekafka&logoColor=black)
-![MySQL](https://img.shields.io/badge/-MySQL-white?style=for-the-badge&logo=mysql&logoColor=00648B)
-![Oracle](https://img.shields.io/badge/-Oracle-white?style=for-the-badge&logo=Oracle&logoColor=E23237)
-![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-white?style=for-the-badge&logo=postgresql&logoColor=316192)
-![MariaDB](https://img.shields.io/badge/-MariaDB-white?style=for-the-badge&logo=MariaDB&logoColor=003545)
-![Google Cloud](https://img.shields.io/badge/-googlecloud-white?style=for-the-badge&logo=googlecloud&logoColor=#4285F4)
-![MariaDB](https://img.shields.io/badge/-microsoftazure-white?style=for-the-badge&logo=microsoftazure&logoColor=2496ED)
+<p align="center" >
+    <img src="https://skillicons.dev/icons?i=angular,vue,nodejs,java,kotlin,spring,hibernate,jquery,redis,mysql,postgresql,mongodb,elasticsearch,sentry,nginx,jenkins,kafka,docker,kubernetes,azure,gcp,githubactions&perline=11" />
+</p>
 
-<!-- link icon -->
-<!-- https://simpleicons.org/ -->
-
-<!-- ![Vue](https://img.shields.io/badge/-Vue-white?style=for-the-badge&logo=vue.js&logoColor=4FC08D)
-![React](https://img.shields.io/badge/-React-white?style=for-the-badge&logo=react&logoColor=61DAFB) -->
+<!-- ![My Skills](https://skillicons.dev/icons?i=angular,vue,nodejs,java,kotlin,spring,hibernate,jquery,redis,mysql,postgresql,mongodb,elasticsearch,sentry,nginx,jenkins,kafka,docker,kubernetes,azure,gcp,githubactions&perline=10) -->
 
 ---
-<p>
-<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jirayutcc&show_icons=true&layout=compact&theme=graywhite" alt="jirayutcc" />
-</p>
 
-<p>
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=jirayutcc&show_icons=true&theme=graywhite" alt="jirayutcc" />
-</p>
+### Connect with me
+[![Github](https://img.shields.io/badge/GitHub-%2312100E.svg?&style=for-the-badge&logo=Github&logoColor=white)](https://github.com/jirayutcc)
+[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jirayutcc)
