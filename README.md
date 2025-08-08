@@ -1,6 +1,6 @@
 # Jirayut Srisawangwong
 
-I'm Jirayutcc <b>Software Developer</b> from Thailand ⚡
+I'm Jirayutcc <b>Software Developer</b> from Thailand ⚡!
 
 <p align=center>
 <!-- <img src=""/> -->
